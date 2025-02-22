@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ItsMeDavid23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🏆 GitHub Contributions in the last year
-![snake gif](https://github.com/ItsMeDavid23/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ItsMeDavid23/ItsMeDavid23/blob/output/github-snake-dark.svg)
 
 
 ### ✍️ Random Dev Quote
