@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a mobile app (personal project)<br><u>🤝 Looking for job opportunities <u><br>🌱 I’m currently learning Java and Python<br>💬 Ask me about anything<br>⚡ I love learning and laughing
+🔭 I'm currently working on a mobile app (personal project)<br><u>🤝 Looking for job opportunities </u><br>🌱 I’m currently learning Java and Python<br>💬 Ask me about anything<br>⚡ I love learning and laughing
 
 
 ## 🌐 Socials:
