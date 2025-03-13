@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on E Commerce app (personal project)<br>🤝 ***Looking for job opportunities***<br>🌱 I’m getting better everyday<br>💬 Ask me about anything<br>⚡ I love learning and laughing
+🔭 I'm currently working on E Commerce app (personal project)<br>🤝 ***Looking for job opportunities***<br>🌱 I’m getting better everyday<br>💬 Ask me about anything<br>⚡ I love learning and i laugh a lot idk why 
 
 
 ## 🌐 Socials:
